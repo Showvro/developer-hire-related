@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "614f69bfa604b532e5862cb5",
+    "name": "Erick Edwards",
+    "profession": "Senior Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": 54500.35,
+    "img": "https://i.postimg.cc/ryfqDFt7/15.png",
+    "experience": "5 years in web development",
+    "mail": "jermaine.lds@yahoo.com"
+  },
+  {
+    "_id": "614f69bf1c030965f19326d7",
+    "name": "Elmer Hernandez",
+    "profession": "Web Developer",
+    "skill": "Javascript, React, Vue",
+    "salary": 45000.125,
+    "img": "https://i.postimg.cc/y6mPvmxM/32.png",
+    "experience": "3 years in web development",
+    "mail": "flora.todd@gmail.com"
+  },
+  {
+    "_id": "614f69bf94184cdc30e6d97f",
+    "name": "Andrew Lloyd",
+    "profession": "Senior Programmer",
+    "skill": "Python, JavaScript",
+    "salary": 48400.45,
+    "img": "https://i.postimg.cc/R0gSvG7J/01.png",
+    "experience": "6 years in python",
+    "mail": "andrew.lioyd@gmail.com"
+  },
+  {
+    "_id": "614f69bf6f701fb6861c1aa0",
+    "name": "Domingo Carlson",
+    "profession": "Web Developer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": 30500.45,
+    "img": "https://i.postimg.cc/Gh9dGwFt/17.png",
+    "experience": "4 years in web development",
+    "mail": "henry.bellard@yahoo.com"
+  },
+  {
+    "_id": "614f69bf041cf3f7712e2ede",
+    "name": "Jermaine Reynolds",
+    "profession": "JavaScript Developer",
+    "skill": "Javascript, React",
+    "salary": 65300.125,
+    "img": "https://i.postimg.cc/WbKj7W8n/26.png",
+    "experience": "3 years in JavaScript",
+    "mail": "jermaine.reynolds@yahoo.com"
+  },
+  {
+    "_id": "614f69bf782254f51ec001fd",
+    "name": "Mamie Duncan",
+    "profession": "PHP Developer",
+    "skill": "PhpStorm, NetBeans, Sublime, Atom",
+    "salary": 19400.445,
+    "img": "https://i.postimg.cc/7ht4dmkq/12.png",
+    "experience": "4 years in PHP skilled",
+    "mail": "mamie.ducan@gmail.com"
+  },
+  {
+    "_id": "614f69bfd36ee4a9ed675136",
+    "name": "Hubert Alexander",
+    "profession": "Senior Web Designer",
+    "skill": "HTML, CSS, Bootstrap, Tailwind",
+    "salary": 25900.25,
+    "img": "https://i.postimg.cc/qqqVsyCS/07.png",
+    "experience": "6 years in web Designing",
+    "mail": "hubers-devel@gmail.com"
+  },
+  {
+    "_id": "614f8ab4045316951945446f",
+    "name": "Aaron Edwards",
+    "profession": "Junior Web Designer",
+    "skill": "HTML, CSS, Bootstrap",
+    "salary": 35000.6,
+    "img": "https://i.postimg.cc/wjLKQ67q/08.png",
+    "experience": "1 years in web Designing",
+    "mail": "aaron.edwars12@gmail.com"
+  },
+  {
+    "_id": "614f8ab4c9cb7d4cd8bdaf1f",
+    "name": "Shane Sandoval",
+    "profession": "UI UX Designer",
+    "skill": "Adobe XD, Figma, Photoshop",
+    "salary": 45000.0,
+    "img": "https://i.postimg.cc/zv06gPfT/25.png",
+    "experience": "UI UX expert in 3 years",
+    "mail": "shane-develop87@gmail.com"
+  },
+  {
+    "_id": "614f8ab412abe13207203507",
+    "name": "Penny Blair",
+    "profession": "Content Writer",
+    "skill": "Blogger for content writer",
+    "salary": 12500.0,
+    "img": "https://i.postimg.cc/gkwbryp6/31.png",
+    "experience": "2 years in Content writing",
+    "mail": "penny-blair@gmail.com"
+  },
+  {
+    "_id": "614f69bf87486e267e1c8cbe",
+    "name": "Ellis Mathews",
+    "profession": "SEO Specialist",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": 55600.0,
+    "img": "https://i.postimg.cc/VLsckXNj/16.png",
+    "experience": "3 years in seo specialist",
+    "mail": "ellis-dev8954@gmail.com"
+  },
+  {
+    "_id": "614f69bf9bc854d9054c429c",
+    "name": "Myra Mccoy",
+    "profession": "PHP Developer",
+    "skill": "PhpStorm, NetBeans, Sublime, Atom",
+    "salary": 45200.0,
+    "img": "https://i.postimg.cc/3wTsLPvg/22.png",
+    "experience": "3 years in php development",
+    "mail": "myra-maccoy@gmail.com"
+  },
+  {
+    "_id": "614f69bf6e6637c5bcd754af",
+    "name": "Warren Harrison",
+    "profession": "Graphic Designer",
+    "skill": "Adobe photoshop, Illustrator, Indesign",
+    "salary": 45700.0,
+    "img": "https://i.postimg.cc/wx4d6fCp/06.png",
+    "experience": "3 years in graphic designing",
+    "mail": "warren-harris45@gmail.com"
+  },
+  {
+    "_id": "614f69bf0c772661ff8a1c10",
+    "name": "Maria Hatfield",
+    "profession": "Graphic Designer",
+    "skill": "Adobe photoshop, Illustrator, Indesign",
+    "salary": 25500.25,
+    "img": "https://i.postimg.cc/1XrPYH3z/20.png",
+    "experience": "5 years in graphic designing",
+    "mail": "maria-gts48@gmail.com"
+  },
+  {
+    "_id": "614f69bfae448cf44ac01861",
+    "name": "Randolph Stanley",
+    "profession": "Senior Web Designer",
+    "skill": "HTML, CSS, Javascript, React",
+    "salary": 12040.5,
+    "img": "https://i.postimg.cc/d1TVnrC7/27.png",
+    "experience": "5 years in web designing",
+    "mail": "randolph-lsts78@gmail.com"
+  }
+]

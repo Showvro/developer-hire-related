@@ -1,0 +1,51 @@
+/* ------- Developer Section CSS --------- */
+.developer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(211, 211, 211, 0.185);
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  transition: 0.5s;
+  padding: 5px;
+}
+
+.info-style {
+  font-weight: bold;
+}
+.developer-info {
+  color: rgba(0, 0, 0, 0.747);
+  text-align: left;
+  margin-left: 30px;
+}
+.developer:hover {
+  box-shadow: 0 0 5px 0 darkgray;
+  transform: scale(1.03);
+}
+
+.developer img {
+  border: 2px solid gray;
+  border-radius: 50%;
+  width: 125px;
+  margin-top: 20px;
+}
+
+/* ------- Hire Button CSS --------- */
+.btn-hire {
+  color: white;
+  background-color: #fc6c53ee;
+  border: none;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 75%;
+  padding: 12px 24px;
+  box-shadow: 0 0 10px 0 #fc6c53a9;
+  transition: 0.8s;
+}
+
+.btn-hire:hover {
+  background-color: #ddd;
+  color: #fc6c53ee;
+  box-shadow: none;
+}
